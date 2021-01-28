@@ -1,0 +1,1253 @@
+{
+    "topProducts":[
+                {"nameJSON": "Baseball Ball",
+                "modelJSON":"A1030",
+                "producerJSON":"Wilson",
+                "priceJSON": "3.95",
+                "pictureJSON":[{
+                    "url1":"zdjeciaTopItems/wilson1.jpg",
+                    "url2":"zdjeciaTopItems/wilson2.jpg",
+                    "url3":"zdjeciaTopItems/wilson3.jpg",
+                    "url4":"zdjeciaTopItems/wilson4.jpg",
+                    "url5":"zdjeciaTopItems/wilson5.jpg"
+    
+    
+                }]
+                }
+            ,
+            
+                    {"nameJSON":" Baseball Bat",
+                    "modelJSON":"Grizly Bad News",
+                    "producerJSON":"Louiseville",
+                    "priceJSON": "119.95",
+                    "pictureJSON":[{
+                        "url1":"zdjeciaTopItems/grizly1.jpg",
+                        "url2":"zdjeciaTopItems/grizly2.jpg",
+                        "url3":"zdjeciaTopItems/grizly3.jfif",
+                        "url4":"zdjeciaTopItems/grizly4.jpg",
+                        "url5":"zdjeciaTopItems/grizly5.jpg"
+        
+        
+                        }]
+                    },{"nameJSON":"Baseball hat",
+                        "modelJSON":"NY Snapback",
+                        "producerJSON":"NY Yankees",
+                        "priceJSON": "29.75",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTopItems/czapka1.jpg",
+                            "url2":"zdjeciaTopItems/czapka2.jfif",
+                            "url3":"zdjeciaTopItems/czapka3.jfif",
+                            "url4":"zdjeciaTopItems/czapka4.jfif",
+                            "url5":"zdjeciaTopItems/czapka5.jpg"
+            
+            
+                            }]
+                        },{"nameJSON":"Catcher's mitt",
+                            "modelJSON":"Grizly Bad News",
+                            "producerJSON":"YSS",
+                            "priceJSON": "119.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaTopItems/mitt1.jpg",
+                                "url2":"zdjeciaTopItems/mitt2.jpg",
+                                "url3":"zdjeciaTopItems/mitt3.jpg",
+                                "url4":"zdjeciaTopItems/mitt4.jfif",
+                                "url5":"zdjeciaTopItems/mitt5.jfif"
+                
+                
+                                }]
+                            },{"nameJSON":"Catcher's protector",
+                                "modelJSON":"Rockfight",
+                                "producerJSON":"Troy Lee Designs",
+                                "priceJSON": "93.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaTopItems/protector1.jpg",
+                                    "url2":"zdjeciaTopItems/protector2.jpg",
+                                    "url3":"zdjeciaTopItems/protector3.jpg",
+                                    "url4":"zdjeciaTopItems/protector4.jpg",
+                                    "url5":"zdjeciaTopItems/protector5.jpg"
+                    
+                    
+                                    }]
+                                },{ "nameJSON":"Batter's gloves",
+                                    "modelJSON":"Huarache Edge",
+                                    "producerJSON":"Nike",
+                                    "priceJSON": "25.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaTopItems/rekawiczki1.jpg",
+                                        "url2":"zdjeciaTopItems/rekawiczki2.jpg",
+                                        "url3":"zdjeciaTopItems/rekawiczki3.jpg",
+                                        "url4":"zdjeciaTopItems/rekawiczki4.jpg",
+                                        "url5":"zdjeciaTopItems/rekawiczki5.jpg"
+                                    }]
+                        
+                                    },{ "nameJSON":"1B Mitt",
+                                        "modelJSON":"CloseOut",
+                                        "producerJSON":"Rawlings",
+                                        "priceJSON": "159.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaTopItems/1B1.jpg",
+                                            "url2":"zdjeciaTopItems/1B2.jpg",
+                                            "url3":"zdjeciaTopItems/1B3.jpg",
+                                            "url4":"zdjeciaTopItems/1B4.jpg",
+                                            "url5":"zdjeciaTopItems/1B5.jpg"
+                            
+                            
+                                            }]
+                                        },{"nameJSON":"Batter's helmet",
+                                            "modelJSON":"Z5 Grip",
+                                            "producerJSON":"Easton",
+                                            "priceJSON": "34.95",
+                                            "pictureJSON":[{
+                                                "url1":"zdjeciaTopItems/helmet1.png",
+                                                "url2":"zdjeciaTopItems/helmet2.png",
+                                                "url3":"zdjeciaTopItems/helmet3.png",
+                                                "url4":"zdjeciaTopItems/helmet4.jfif",
+                                                "url5":"zdjeciaTopItems/helmet5.jfif"
+                                
+                                            
+                                                }]
+                                            }
+                                        ],
+
+"gameEquip":[
+                                {"nameJSON": "allStarLegGuard",
+                                "modelJSON":"Leg Guard",
+                                "producerJSON":"All Star",
+                                "priceJSON": "70.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaGame/allStarLegGuard1.jpg",
+                                    "url2":"zdjeciaGame/allStarLegGuard2.jpg",
+                                    "url3":"zdjeciaGame/allStarLegGuard3.jpg",
+                                    "url4":"zdjeciaGame/allStarLegGuard4.jpg",
+                                    "url5":"zdjeciaGame/allStarLegGuard5.jpg"
+
+                                }]
+                            },
+                                {"nameJSON":"demartiniBat",
+                                "modelJSON":"Slugger 32\"",
+                                "producerJSON":"Demartini",
+                                "priceJSON": "45.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaGame/demariniBat1.jpg",
+                                    "url2":"zdjeciaGame/demariniBat2.jpg",
+                                    "url3":"zdjeciaGame/demariniBat3.jpg",
+                                    "url4":"zdjeciaGame/demariniBat4.jpg",
+                                    "url5":"zdjeciaGame/demariniBat5.jpg"
+                                
+                            }]
+                                },{"nameJSON":"eastonCatchersGear",                                            "modelJSON":"Gametime ",
+                                    "producerJSON":"Easton",
+                                    "priceJSON": "195.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaGame/catchersGearGametime1.jpg",
+                                        "url2":"zdjeciaGame/catchersGearGametime2.jpg",
+                                        "url3":"zdjeciaGame/catchersGearGametime3.jpg",
+                                        "url4":"zdjeciaGame/catchersGearGametime4.jpg",
+                                        "url5":"zdjeciaGame/catchersGearGametime5.jpg"        
+                                        
+                            }]
+                                },{"nameJSON":"rowlingsHelmet",
+                                    "modelJSON":"Z15",
+                                    "producerJSON":"Rowlings",
+                                    "priceJSON": "35.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaGame/eastonBattingHelmet1.jpg",
+                                        "url2":"zdjeciaGame/eastonBattingHelmet2.jpg",
+                                        "url3":"zdjeciaGame/eastonBattingHelmet3.jpg",
+                                        "url4":"zdjeciaGame/eastonBattingHelmet4.jpg",
+                                        "url5":"zdjeciaGame/eastonBattingHelmet5.jpg" 
+                                            
+                            }]
+                                },{"nameJSON":"louisevilleBattingGlove1",
+                                    "modelJSON":"LS",
+                                    "producerJSON":"Louiseville",
+                                    "priceJSON": "15.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaGame/louisevilleBattingGlove1.jpg",
+                                        "url2":"zdjeciaGame/louisevilleBattingGlove2.jpg",
+                                        "url3":"zdjeciaGame/louisevilleBattingGlove3.jpg",
+                                        "url4":"zdjeciaGame/louisevilleBattingGlove4.jpg",
+                                        "url5":"zdjeciaGame/louisevilleBattingGlove5.jpg" 
+                                                
+                            }]
+                                },{ "nameJSON":"Bat",
+                                    "modelJSON":"Z-32\" Slugger",
+                                    "producerJSON":"MArucci",
+                                    "priceJSON": "180.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaGame/marucciBat1.jpg",
+                                        "url2":"zdjeciaGame/marucciBat2.jpg",
+                                        "url3":"zdjeciaGame/marucciBat3.jpg",
+                                        "url4":"zdjeciaGame/marucciBat4.jpg",
+                                        "url5":"zdjeciaGame/marucciBat5.jpg" 
+                            }]
+                                },{ "nameJSON":"Bat",
+                                    "modelJSON":"Maple Bat",
+                                    "producerJSON":"Hickory",
+                                    "priceJSON": "159.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaGame/oldHickoryMapleBat1.jpg",
+                                        "url2":"zdjeciaGame/oldHickoryMapleBat2.jpg",
+                                        "url3":"zdjeciaGame/oldHickoryMapleBat3.jpg",
+                                        "url4":"zdjeciaGame/oldHickoryMapleBat4.jpg",
+                                        "url5":"zdjeciaGame/oldHickoryMapleBat5.jpg" 
+                                                        
+                            }]
+                                    },{"nameJSON":"Batter's Mit",
+                                        "modelJSON":"Encore",
+                                        "producerJSON":"Rawlings",
+                                        "priceJSON": "124.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaGame/rawlingsEncore1.jpg",
+                                            "url2":"zdjeciaGame/rawlingsEncore2.jpg",
+                                            "url3":"zdjeciaGame/rawlingsEncore3.jpg",
+                                            "url4":"zdjeciaGame/rawlingsEncore4.jpg",
+                                            "url5":"zdjeciaGame/rawlingsEncore5.jpg" 
+                            }]
+                                    },{"nameJSON": "Outfield Mitt",
+                                    "modelJSON":"Outfield YS",
+                                    "producerJSON":"Rawlings",
+                                    "priceJSON": "114.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield1.jpg",
+                                        "url2":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield2.jpg",
+                                        "url3":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield3.jpg",
+                                        "url4":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield4.jpg",
+                                        "url5":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield5.jpg"        
+                            }]
+                                    },{"nameJSON":"Infield Mitt",
+                                    "modelJSON":"Infields YS",
+                                    "producerJSON":"Rawlings",
+                                    "priceJSON": "118.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaGame/rawlingsHeartOfTheHide1.jpg",
+                                        "url2":"zdjeciaGame/rawlingsHeartOfTheHide2.jpg",
+                                        "url3":"zdjeciaGame/rawlingsHeartOfTheHide3.jfif",
+                                        "url4":"zdjeciaGame/rawlingsHeartOfTheHide4.jpg",
+                                        "url5":"zdjeciaGame/rawlingsHeartOfTheHide5.jpg"
+
+                            }]
+                                    },{"nameJSON":"rawlingsHeartRed",
+                                        "modelJSON":"Infield YS-100",
+                                        "producerJSON":"Rawlings",
+                                        "priceJSON": "115.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaGame/rawlingsHeartOfTheHideRed1.jpg",
+                                            "url2":"zdjeciaGame/rawlingsHeartOfTheHideRed2.jpg",
+                                            "url3":"zdjeciaGame/rawlingsHeartOfTheHideRed3.jfif",
+                                            "url4":"zdjeciaGame/rawlingsHeartOfTheHideRed4.jpg",
+                                            "url5":"zdjeciaGame/rawlingsHeartOfTheHideRed5.jpg"
+                                        
+                            }]
+                                    },{"nameJSON":"rawlingsHeartWhite",
+                                            "modelJSON":"Grizly Bad NewInfield YS-101s",
+                                            "producerJSON":"Rawlings",
+                                            "priceJSON": "118.95",
+                                            "pictureJSON":[{
+                                                "url1":"zdjeciaGame/rawlingsHeartOfTheHideWhite1.jpg",
+                                                "url2":"zdjeciaGame/rawlingsHeartOfTheHideWhite2.jpg",
+                                                "url3":"zdjeciaGame/rawlingsHeartOfTheHideWhite3.jfif",
+                                                "url4":"zdjeciaGame/rawlingsHeartOfTheHideWhite4.jpg",
+                                                "url5":"zdjeciaGame/rawlingsHeartOfTheHideWhite5.jpg"
+                                            
+                            }]
+                                    },{"nameJSON":"rawlingProPreffered",
+                                        "modelJSON":"Pro-Preffered",
+                                        "producerJSON":"Rawlings",
+                                        "priceJSON": "114.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaGame/rawlingsProPreffered1.jpg",
+                                            "url2":"zdjeciaGame/rawlingsProPreffered2.jpg",
+                                            "url3":"zdjeciaGame/rawlingsProPreffered3.jfif",
+                                            "url4":"zdjeciaGame/rawlingsProPreffered4.jpg",
+                                            "url5":"zdjeciaGame/rawlingsProPreffered5.jpg"
+                                                
+                            }]
+                                    },{ "nameJSON":"catchersMitt",
+                                        "modelJSON":"Pro-RCM",
+                                        "producerJSON":"Rawlings",
+                                        "priceJSON": "159.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaGame/rawlingsProRCM1.jpg",
+                                            "url2":"zdjeciaGame/rawlingsProRCM2.jpg",
+                                            "url3":"zdjeciaGame/rawlingsProRCM3.jfif",
+                                            "url4":"zdjeciaGame/rawlingsProRCM4.jpg",
+                                            "url5":"zdjeciaGame/rawlingsProRCM5.jpg"
+                            }]
+                                    },{ "nameJSON":"strikingBat",
+                                        "modelJSON":"SB-33\"",
+                                        "producerJSON":"Striking",
+                                        "priceJSON": "189.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaGame/strikinkkingBat1.jpg",
+                                            "url2":"zdjeciaGame/strikinkkingBat2.jpg",
+                                            "url3":"zdjeciaGame/strikinkkingBat3.jfif",
+                                            "url4":"zdjeciaGame/strikinkkingBat4.jpg",
+                                            "url5":"zdjeciaGame/strikinkkingBat5.jpg"
+
+                            }]
+                                    },{"nameJSON": "infieldWilson",
+                                        "modelJSON":"A2000",
+                                        "producerJSON":"Wilson",
+                                        "priceJSON": "89.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaGame/wilsonaA2000-125Outfield1.jpg",
+                                            "url2":"zdjeciaGame/wilsonaA2000-125Outfield1.jpg",
+                                            "url3":"zdjeciaGame/wilsonaA2000-125Outfield1.jfif",
+                                            "url4":"zdjeciaGame/wilsonaA2000-125Outfield1.jpg",
+                                            "url5":"zdjeciaGame/wilsonaA2000-125Outfield1.jpg"
+                                
+                                
+                            }]
+                                    }, {"nameJSON": "Baseball Ball",
+                "modelJSON":"A1030",
+                "producerJSON":"Wilson",
+                "priceJSON": "3.95",
+                "pictureJSON":[{
+                    "url1":"zdjeciaTopItems/wilson1.jpg",
+                    "url2":"zdjeciaTopItems/wilson2.jpg",
+                    "url3":"zdjeciaTopItems/wilson3.jpg",
+                    "url4":"zdjeciaTopItems/wilson4.jpg",
+                    "url5":"zdjeciaTopItems/wilson5.jpg"
+    
+    
+                }]
+                },{"nameJSON":" Baseball Bat",
+                    "modelJSON":"Grizly Bad News",
+                    "producerJSON":"Louiseville",
+                    "priceJSON": "119.95",
+                    "pictureJSON":[{
+                        "url1":"zdjeciaTopItems/grizly1.jpg",
+                        "url2":"zdjeciaTopItems/grizly2.jpg",
+                        "url3":"zdjeciaTopItems/grizly3.jfif",
+                        "url4":"zdjeciaTopItems/grizly4.jpg",
+                        "url5":"zdjeciaTopItems/grizly5.jpg"
+        
+        
+                        }]
+                    },{"nameJSON":"Baseball hat",
+                        "modelJSON":"NY Snapback",
+                        "producerJSON":"NY Yankees",
+                        "priceJSON": "29.75",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTopItems/czapka1.jpg",
+                            "url2":"zdjeciaTopItems/czapka2.jfif",
+                            "url3":"zdjeciaTopItems/czapka3.jfif",
+                            "url4":"zdjeciaTopItems/czapka4.jfif",
+                            "url5":"zdjeciaTopItems/czapka5.jpg"
+            
+            
+                            }]
+                        },{"nameJSON":"Catcher's mitt",
+                            "modelJSON":"Grizly Bad News",
+                            "producerJSON":"YSS",
+                            "priceJSON": "119.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaTopItems/mitt1.jpg",
+                                "url2":"zdjeciaTopItems/mitt2.jpg",
+                                "url3":"zdjeciaTopItems/mitt3.jpg",
+                                "url4":"zdjeciaTopItems/mitt4.jfif",
+                                "url5":"zdjeciaTopItems/mitt5.jfif"
+                
+                
+                                }]
+                            }
+                        ],
+
+"trainingEquip":[
+                                {"nameJSON": "bruceBoltBAttingGlove",
+                                "modelJSON":"Light Skin",
+                                "producerJSON":"Bruce Bolt",
+                                "priceJSON": "19.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaTrening/bruceBoltBattingGlove1.jpg",
+                                    "url2":"zdjeciaTrening/bruceBoltBattingGlove2.jpg",
+                                    "url3":"zdjeciaTrening/bruceBoltBattingGlove3.jpg",
+                                    "url4":"zdjeciaTrening/bruceBoltBattingGlove4.jpg",
+                                    "url5":"zdjeciaTrening/bruceBoltBattingGlove5.jpg"
+
+                                }]
+                            },
+                                {"nameJSON":"eastonBattingHelmet",
+                                "modelJSON":"GZ-150",
+                                "producerJSON":"Easton",
+                                "priceJSON": "45.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaTrening/eastonBattingHelmetBlue1.jpg",
+                                    "url2":"zdjeciaTrening/eastonBattingHelmetBlue2.jpg",
+                                    "url3":"zdjeciaTrening/eastonBattingHelmetBlue3.jpg",
+                                    "url4":"zdjeciaTrening/eastonBattingHelmetBlue4.jpg",
+                                    "url5":"zdjeciaTrening/eastonBattingHelmetBlue5.jpg"
+                                
+                            }]
+                                },{"nameJSON":"eastonCatchersGear",                                            "modelJSON":"Gametime ",
+                                    "producerJSON":"Easton",
+                                    "priceJSON": "135.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaTrening/eastonCatchersEquipmentBlue1.jpg",
+                                        "url2":"zdjeciaTrening/eastonCatchersEquipmentBlue2.jpg",
+                                        "url3":"zdjeciaTrening/eastonCatchersEquipmentBlue3.jpg",
+                                        "url4":"zdjeciaTrening/eastonCatchersEquipmentBlue4.jpg",
+                                        "url5":"zdjeciaTrening/eastonCatchersEquipmentBlue5.jpg"       
+                                        
+                            }]
+                                },{"nameJSON":"Catcher's protector",
+                                "modelJSON":"Rockfight",
+                                "producerJSON":"Troy Lee Designs",
+                                "priceJSON": "93.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaTopItems/protector1.jpg",
+                                    "url2":"zdjeciaTopItems/protector2.jpg",
+                                    "url3":"zdjeciaTopItems/protector3.jpg",
+                                    "url4":"zdjeciaTopItems/protector4.jpg",
+                                    "url5":"zdjeciaTopItems/protector5.jpg"
+                    
+                    
+                                    }]
+                                },{ "nameJSON":"Batter's gloves",
+                                    "modelJSON":"Huarache Edge",
+                                    "producerJSON":"Nike",
+                                    "priceJSON": "25.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaTopItems/rekawiczki1.jpg",
+                                        "url2":"zdjeciaTopItems/rekawiczki2.jpg",
+                                        "url3":"zdjeciaTopItems/rekawiczki3.jpg",
+                                        "url4":"zdjeciaTopItems/rekawiczki4.jpg",
+                                        "url5":"zdjeciaTopItems/rekawiczki5.jpg"
+                                    }]
+                        
+                                    },{ "nameJSON":"1B Mitt",
+                                        "modelJSON":"CloseOut",
+                                        "producerJSON":"Rawlings",
+                                        "priceJSON": "159.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaTopItems/1B1.jpg",
+                                            "url2":"zdjeciaTopItems/1B2.jpg",
+                                            "url3":"zdjeciaTopItems/1B3.jpg",
+                                            "url4":"zdjeciaTopItems/1B4.jpg",
+                                            "url5":"zdjeciaTopItems/1B5.jpg"
+                            
+                            
+                                            }]
+                                        },{"nameJSON":"battersProtector",
+                                            "modelJSON":"FM-50",
+                                            "producerJSON":"Homerun",
+                                            "priceJSON": "74.95",
+                                            "pictureJSON":[{
+                                                "url1":"zdjeciaTrening/homerunCathersFaceMask1.jpg",
+                                                "url2":"zdjeciaTrening/homerunCathersFaceMask2.jpg",
+                                                "url3":"zdjeciaTrening/homerunCathersFaceMask3.jpg",
+                                                "url4":"zdjeciaTrening/homerunCathersFaceMask4.jpg",
+                                                "url5":"zdjeciaTrening/homerunCathersFaceMask5.jpg"
+                                
+                                            
+                                    }]
+                                            
+                                    },{"nameJSON":"catchersChest",
+                                        "modelJSON":"Pro Chest",
+                                        "producerJSON":"Mizuno",
+                                        "priceJSON": "115.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaTrening/mizunoChestProtector1.jpg",
+                                            "url2":"zdjeciaTrening/mizunoChestProtector2.jpg",
+                                            "url3":"zdjeciaTrening/mizunoChestProtector3.jpg",
+                                            "url4":"zdjeciaTrening/mizunoChestProtector4.jpg",
+                                            "url5":"zdjeciaTrening/mizunoChestProtector5.jpg" 
+                                            
+                            }]
+                                },{"nameJSON":"oldHickoryWodenBat",
+                                    "modelJSON":"J143M",
+                                    "producerJSON":"Old Hickory",
+                                    "priceJSON": "95.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaTrening/oldHickoryWodenBat.jpg",
+                                        "url2":"zdjeciaTrening/oldHickoryWodenBat2.jpg",
+                                        "url3":"zdjeciaTrening/oldHickoryWodenBat3.jpg",
+                                        "url4":"zdjeciaTrening/oldHickoryWodenBat4.jpg",
+                                        "url5":"zdjeciaTrening/oldHickoryWodenBat5.jpg" 
+                                                
+                            }]
+                                },{ "nameJSON":"rawlingsHeartofTheHideWhite",
+                                    "modelJSON":"Heart of the Hide",
+                                    "producerJSON":"Rawlings",
+                                    "priceJSON": "80.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaTrening/rawlingsHeartOfTheHide1.jpg",
+                                        "url2":"zdjeciaTrening/rawlingsHeartOfTheHide2.jpg",
+                                        "url3":"zdjeciaTrening/rawlingsHeartOfTheHide3.jpg",
+                                        "url4":"zdjeciaTrening/rawlingsHeartOfTheHide4.jpg",
+                                        "url5":"zdjeciaTrening/rawlingsHeartOfTheHide5.jpg" 
+                            }]
+                                },{ "nameJSON":"rawlingWodenBar",
+                                    "modelJSON":"Machado",
+                                    "producerJSON":"Rawlings",
+                                    "priceJSON": "119.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaTrening/rawlingWodenBat1.jpg",
+                                        "url2":"zdjeciaTrening/rawlingWodenBat2.jpg",
+                                        "url3":"zdjeciaTrening/rawlingWodenBat3.jpg",
+                                        "url4":"zdjeciaTrening/rawlingWodenBat4.jpg",
+                                        "url5":"zdjeciaTrening/rawlingWodenBat5.jpg" 
+                                                        
+                            }]
+                                    },{"nameJSON":"underArmourGeniuePro",
+                                        "modelJSON":"Geniue Pro",
+                                        "producerJSON":"Under Armour",
+                                        "priceJSON": "94.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaTrening/underarmourGeniuePro1.jpg",
+                                            "url2":"zdjeciaTrening/underarmourGeniuePro2.jpg",
+                                            "url3":"zdjeciaTrening/underarmourGeniuePro3.jpg",
+                                            "url4":"zdjeciaTrening/underarmourGeniuePro4.jpg",
+                                            "url5":"zdjeciaTrening/underarmourGeniuePro5.jpg" 
+                            }]
+                                    },{"nameJSON": "victusBat",
+                                    "modelJSON":"V-Slugger",
+                                    "producerJSON":"Victus",
+                                    "priceJSON": "94.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaTrening/victusBat1.jpg",
+                                        "url2":"zdjeciaTrening/victusBat2.jpg",
+                                        "url3":"zdjeciaTrening/victusBat3.jpg",
+                                        "url4":"zdjeciaTrening/victusBat4.jpg",
+                                        "url5":"zdjeciaTrening/victusBat5.jpg"        
+                            }]
+                                    },{"nameJSON":"infieldWilson",
+                                    "modelJSON":"I-A2000",
+                                    "producerJSON":"Wilson",
+                                    "priceJSON": "88.95",
+                                    "pictureJSON":[{
+                                        "url1":"zdjeciaTrening/WilsonA20001.jpg",
+                                        "url2":"zdjeciaTrening/WilsonA20002.jpg",
+                                        "url3":"zdjeciaTrening/WilsonA20003.jpg",
+                                        "url4":"zdjeciaTrening/WilsonA20004.jpg",
+                                        "url5":"zdjeciaTrening/WilsonA20005.jpg" 
+
+                            }]
+                                    },{"nameJSON":"outfieldWilson",
+                                        "modelJSON":"O-A2000",
+                                        "producerJSON":"Wilson",
+                                        "priceJSON": "98.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaTrening/wilsonaA2000Outfield1.jpg",
+                                            "url2":"zdjeciaTrening/wilsonaA2000Outfield2.jpg",
+                                            "url3":"zdjeciaTrening/wilsonaA2000Outfield3.jpg",
+                                            "url4":"zdjeciaTrening/wilsonaA2000Outfield4.jpg",
+                                            "url5":"zdjeciaTrening/wilsonaA2000Outfield5.jpg"
+                                        
+                            }]
+                                    },{"nameJSON":"wilsonSuperSkin",
+                                            "modelJSON":"SuperSkin",
+                                            "producerJSON":"Wilson",
+                                            "priceJSON": "99.95",
+                                            "pictureJSON":[{
+                                                "url1":"zdjeciaTrening/wilsonaSuperSkinOutfield1.jpg",
+                                                "url2":"zdjeciaTrening/wilsonaSuperSkinOutfield2.jpg",
+                                                "url3":"zdjeciaTrening/wilsonaSuperSkinOutfield3.jpg",
+                                                "url4":"zdjeciaTrening/wilsonaSuperSkinOutfield4.jpg",
+                                                "url5":"zdjeciaTrening/wilsonaSuperSkinOutfield5.jpg"
+                                            
+                            }]
+                                    },{"nameJSON":"wilsonSuperSkin1B",
+                                        "modelJSON":"1B - SuperSkin",
+                                        "producerJSON":"Wilson",
+                                        "priceJSON": "109.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaTrening/wilsonSuperSkin1.jpg",
+                                            "url2":"zdjeciaTrening/wilsonSuperSkin2.jpg",
+                                            "url3":"zdjeciaTrening/wilsonSuperSkin3.jpg",
+                                            "url4":"zdjeciaTrening/wilsonSuperSkin4.jpg",
+                                            "url5":"zdjeciaTrening/wilsonSuperSkin5.jpg"
+                                                
+                            }]
+                                    },{"nameJSON":"wilsonSuperSkin1BBlack",
+                                        "modelJSON":"1BB - SuperSkin",
+                                        "producerJSON":"Wilson",
+                                        "priceJSON": "104.95",
+                                        "pictureJSON":[{
+                                            "url1":"zdjeciaTrening/wilsonSuperSkinBlack1.jpg",
+                                            "url2":"zdjeciaTrening/wilsonSuperSkinBlack2.jpg",
+                                            "url3":"zdjeciaTrening/wilsonSuperSkinBlack3.jpg",
+                                            "url4":"zdjeciaTrening/wilsonSuperSkinBlack4.jpg",
+                                            "url5":"zdjeciaTrening/wilsonSuperSkinBlack5.jpg"
+                            }]
+                                    }
+                        ],
+
+"other":[
+                            {"nameJSON": "evoshieldWristGuard",
+                            "modelJSON":"WG-125",
+                            "producerJSON":"Evoshield",
+                            "priceJSON": "39.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaOther/evoshieldWristGuard1.jpg",
+                                "url2":"zdjeciaOther/evoshieldWristGuard2.jpg",
+                                "url3":"zdjeciaOther/evoshieldWristGuard3.jpg",
+                                "url4":"zdjeciaOther/evoshieldWristGuard4.jpg",
+                                "url5":"zdjeciaOther/evoshieldWristGuard5.jpg"
+
+                            }]
+                        },
+                            {"nameJSON":"gloveLace",
+                            "modelJSON":"Long Lace",
+                            "producerJSON":"Rawlings",
+                            "priceJSON": "5.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaOther/gloveLace1.jpg",
+                                "url2":"zdjeciaOther/gloveLace2.jpg",
+                                "url3":"zdjeciaOther/gloveLace3.jpg",
+                                "url4":"zdjeciaOther/gloveLace4.jpg",
+                                "url5":"zdjeciaOther/gloveLace5.jpg"
+                            
+                        }]
+                            },{"nameJSON":"equipmentBag",
+                                "modelJSON":"BatBag",
+                                "producerJSON":"Louiseville",
+                                "priceJSON": "43.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaOther/louisvilleEquipmentBag1.jpg",
+                                    "url2":"zdjeciaOther/louisvilleEquipmentBag2.jpg",
+                                    "url3":"zdjeciaOther/louisvilleEquipmentBag3.jpg",
+                                    "url4":"zdjeciaOther/louisvilleEquipmentBag4.jpg",
+                                    "url5":"zdjeciaOther/louisvilleEquipmentBag5.jpg"       
+                                    
+                        }]
+                            },{"nameJSON":"equipmentBag",
+                            "modelJSON":"G205",
+                            "producerJSON":"Marucci",
+                            "priceJSON": "53.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaOther/marucciEquipmentBag1.jpg",
+                                "url2":"zdjeciaOther/marucciEquipmentBag2.jpg",
+                                "url3":"zdjeciaOther/marucciEquipmentBag3.jpg",
+                                "url4":"zdjeciaOther/marucciEquipmentBag4.jpg",
+                                "url5":"zdjeciaOther/marucciEquipmentBag5.jpg"
+                
+                
+                                }]
+                            }
+
+                        ],
+
+
+"startBtn":[
+    {"nameJSON": "Baseball Ball",
+    "modelJSON":"A1030",
+    "producerJSON":"Wilson",
+    "priceJSON": "3.95",
+    "pictureJSON":[{
+        "url1":"zdjeciaTopItems/wilson1.jpg",
+        "url2":"zdjeciaTopItems/wilson2.jpg",
+        "url3":"zdjeciaTopItems/wilson3.jpg",
+        "url4":"zdjeciaTopItems/wilson4.jpg",
+        "url5":"zdjeciaTopItems/wilson5.jpg"
+
+
+    }]
+    },{"nameJSON":" Baseball Bat",
+        "modelJSON":"Grizly Bad News",
+        "producerJSON":"Louiseville",
+        "priceJSON": "119.95",
+        "pictureJSON":[{
+            "url1":"zdjeciaTopItems/grizly1.jpg",
+            "url2":"zdjeciaTopItems/grizly2.jpg",
+            "url3":"zdjeciaTopItems/grizly3.jfif",
+            "url4":"zdjeciaTopItems/grizly4.jpg",
+            "url5":"zdjeciaTopItems/grizly5.jpg"
+
+
+            }]
+        },{"nameJSON":"Baseball hat",
+            "modelJSON":"NY Snapback",
+            "producerJSON":"NY Yankees",
+            "priceJSON": "29.75",
+            "pictureJSON":[{
+                "url1":"zdjeciaTopItems/czapka1.jpg",
+                "url2":"zdjeciaTopItems/czapka2.jfif",
+                "url3":"zdjeciaTopItems/czapka3.jfif",
+                "url4":"zdjeciaTopItems/czapka4.jfif",
+                "url5":"zdjeciaTopItems/czapka5.jpg"
+
+
+                }]
+            },{"nameJSON":"Catcher's mitt",
+                "modelJSON":"Grizly Bad News",
+                "producerJSON":"YSS",
+                "priceJSON": "119.95",
+                "pictureJSON":[{
+                    "url1":"zdjeciaTopItems/mitt1.jpg",
+                    "url2":"zdjeciaTopItems/mitt2.jpg",
+                    "url3":"zdjeciaTopItems/mitt3.jpg",
+                    "url4":"zdjeciaTopItems/mitt4.jfif",
+                    "url5":"zdjeciaTopItems/mitt5.jfif"
+    
+    
+                    }]
+                },{"nameJSON":"Catcher's protector",
+                    "modelJSON":"Rockfight",
+                    "producerJSON":"Troy Lee Designs",
+                    "priceJSON": "93.95",
+                    "pictureJSON":[{
+                        "url1":"zdjeciaTopItems/protector1.jpg",
+                        "url2":"zdjeciaTopItems/protector2.jpg",
+                        "url3":"zdjeciaTopItems/protector3.jpg",
+                        "url4":"zdjeciaTopItems/protector4.jpg",
+                        "url5":"zdjeciaTopItems/protector5.jpg"
+        
+        
+                        }]
+                    },{ "nameJSON":"Batter's gloves",
+                        "modelJSON":"Huarache Edge",
+                        "producerJSON":"Nike",
+                        "priceJSON": "25.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTopItems/rekawiczki1.jpg",
+                            "url2":"zdjeciaTopItems/rekawiczki2.jpg",
+                            "url3":"zdjeciaTopItems/rekawiczki3.jpg",
+                            "url4":"zdjeciaTopItems/rekawiczki4.jpg",
+                            "url5":"zdjeciaTopItems/rekawiczki5.jpg"
+                        }]
+            
+                        },{ "nameJSON":"1B Mitt",
+                            "modelJSON":"CloseOut",
+                            "producerJSON":"Rawlings",
+                            "priceJSON": "159.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaTopItems/1B1.jpg",
+                                "url2":"zdjeciaTopItems/1B2.jpg",
+                                "url3":"zdjeciaTopItems/1B3.jpg",
+                                "url4":"zdjeciaTopItems/1B4.jpg",
+                                "url5":"zdjeciaTopItems/1B5.jpg"
+                
+                
+                                }]
+                            },{"nameJSON":"Batter's helmet",
+                                "modelJSON":"Z5 Grip",
+                                "producerJSON":"Easton",
+                                "priceJSON": "34.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaTopItems/helmet1.png",
+                                    "url2":"zdjeciaTopItems/helmet2.png",
+                                    "url3":"zdjeciaTopItems/helmet3.png",
+                                    "url4":"zdjeciaTopItems/helmet4.jfif",
+                                    "url5":"zdjeciaTopItems/helmet5.jfif"
+                    
+                                
+                                    }]
+                }, {"nameJSON": "allStarLegGuard",
+                    "modelJSON":"Leg Guard",
+                    "producerJSON":"All Star",
+                    "priceJSON": "70.95",
+                    "pictureJSON":[{
+                        "url1":"zdjeciaGame/allStarLegGuard1.jpg",
+                        "url2":"zdjeciaGame/allStarLegGuard2.jpg",
+                        "url3":"zdjeciaGame/allStarLegGuard3.jpg",
+                        "url4":"zdjeciaGame/allStarLegGuard4.jpg",
+                        "url5":"zdjeciaGame/allStarLegGuard5.jpg"
+
+                    }]
+                },
+                    {"nameJSON":"demartiniBat",
+                    "modelJSON":"Slugger 32\"",
+                    "producerJSON":"Demartini",
+                    "priceJSON": "45.95",
+                    "pictureJSON":[{
+                        "url1":"zdjeciaGame/demariniBat1.jpg",
+                        "url2":"zdjeciaGame/demariniBat2.jpg",
+                        "url3":"zdjeciaGame/demariniBat3.jpg",
+                        "url4":"zdjeciaGame/demariniBat4.jpg",
+                        "url5":"zdjeciaGame/demariniBat5.jpg"
+                    
+                }]
+                    },{"nameJSON":"eastonCatchersGear",                                            
+                        "modelJSON":"Gametime ",
+                        "producerJSON":"Easton",
+                        "priceJSON": "195.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaGame/catchersGearGametime1.jpg",
+                            "url2":"zdjeciaGame/catchersGearGametime2.jpg",
+                            "url3":"zdjeciaGame/catchersGearGametime3.jpg",
+                            "url4":"zdjeciaGame/catchersGearGametime4.jpg",
+                            "url5":"zdjeciaGame/catchersGearGametime5.jpg"        
+                            
+                }]
+                    },{"nameJSON":"rowlingsHelmet",
+                        "modelJSON":"Z15",
+                        "producerJSON":"Rowlings",
+                        "priceJSON": "35.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaGame/eastonBattingHelmet1.jpg",
+                            "url2":"zdjeciaGame/eastonBattingHelmet2.jpg",
+                            "url3":"zdjeciaGame/eastonBattingHelmet3.jpg",
+                            "url4":"zdjeciaGame/eastonBattingHelmet4.jpg",
+                            "url5":"zdjeciaGame/eastonBattingHelmet5.jpg" 
+                                
+                }]
+                    },{"nameJSON":"louisevilleBattingGlove1",
+                        "modelJSON":"LS",
+                        "producerJSON":"Louiseville",
+                        "priceJSON": "15.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaGame/louisevilleBattingGlove1.jpg",
+                            "url2":"zdjeciaGame/louisevilleBattingGlove2.jpg",
+                            "url3":"zdjeciaGame/louisevilleBattingGlove3.jpg",
+                            "url4":"zdjeciaGame/louisevilleBattingGlove4.jpg",
+                            "url5":"zdjeciaGame/louisevilleBattingGlove5.jpg" 
+                                    
+                }]
+                    },{ "nameJSON":"Bat",
+                        "modelJSON":"Z-32\" Slugger",
+                        "producerJSON":"MArucci",
+                        "priceJSON": "180.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaGame/marucciBat1.jpg",
+                            "url2":"zdjeciaGame/marucciBat2.jpg",
+                            "url3":"zdjeciaGame/marucciBat3.jpg",
+                            "url4":"zdjeciaGame/marucciBat4.jpg",
+                            "url5":"zdjeciaGame/marucciBat5.jpg" 
+                }]
+                    },{ "nameJSON":"Bat",
+                        "modelJSON":"Maple Bat",
+                        "producerJSON":"Hickory",
+                        "priceJSON": "159.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaGame/oldHickoryMapleBat1.jpg",
+                            "url2":"zdjeciaGame/oldHickoryMapleBat2.jpg",
+                            "url3":"zdjeciaGame/oldHickoryMapleBat3.jpg",
+                            "url4":"zdjeciaGame/oldHickoryMapleBat4.jpg",
+                            "url5":"zdjeciaGame/oldHickoryMapleBat5.jpg" 
+                                            
+                }]
+                        },{"nameJSON":"Batter's Mit",
+                            "modelJSON":"Encore",
+                            "producerJSON":"Rawlings",
+                            "priceJSON": "124.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaGame/rawlingsEncore1.jpg",
+                                "url2":"zdjeciaGame/rawlingsEncore2.jpg",
+                                "url3":"zdjeciaGame/rawlingsEncore3.jpg",
+                                "url4":"zdjeciaGame/rawlingsEncore4.jpg",
+                                "url5":"zdjeciaGame/rawlingsEncore5.jpg" 
+                }]
+                        },{"nameJSON": "Outfield Mitt",
+                        "modelJSON":"Outfield YS",
+                        "producerJSON":"Rawlings",
+                        "priceJSON": "114.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield1.jpg",
+                            "url2":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield2.jpg",
+                            "url3":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield3.jpg",
+                            "url4":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield4.jpg",
+                            "url5":"zdjeciaGame/rawlingsHeartOfTheHearthOutfield5.jpg"        
+                }]
+                        },{"nameJSON":"Infield Mitt",
+                        "modelJSON":"Infields YS",
+                        "producerJSON":"Rawlings",
+                        "priceJSON": "118.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaGame/rawlingsHeartOfTheHide1.jpg",
+                            "url2":"zdjeciaGame/rawlingsHeartOfTheHide2.jpg",
+                            "url3":"zdjeciaGame/rawlingsHeartOfTheHide3.jfif",
+                            "url4":"zdjeciaGame/rawlingsHeartOfTheHide4.jpg",
+                            "url5":"zdjeciaGame/rawlingsHeartOfTheHide5.jpg"
+
+                }]
+                        },{"nameJSON":"rawlingsHeartRed",
+                            "modelJSON":"Infield YS-100",
+                            "producerJSON":"Rawlings",
+                            "priceJSON": "115.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaGame/rawlingsHeartOfTheHideRed1.jpg",
+                                "url2":"zdjeciaGame/rawlingsHeartOfTheHideRed2.jpg",
+                                "url3":"zdjeciaGame/rawlingsHeartOfTheHideRed3.jfif",
+                                "url4":"zdjeciaGame/rawlingsHeartOfTheHideRed4.jpg",
+                                "url5":"zdjeciaGame/rawlingsHeartOfTheHideRed5.jpg"
+                            
+                }]
+                        },{"nameJSON":"rawlingsHeartWhite",
+                                "modelJSON":"Grizly Bad NewInfield YS-101s",
+                                "producerJSON":"Rawlings",
+                                "priceJSON": "118.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaGame/rawlingsHeartOfTheHideWhite1.jpg",
+                                    "url2":"zdjeciaGame/rawlingsHeartOfTheHideWhite2.jpg",
+                                    "url3":"zdjeciaGame/rawlingsHeartOfTheHideWhite3.jfif",
+                                    "url4":"zdjeciaGame/rawlingsHeartOfTheHideWhite4.jpg",
+                                    "url5":"zdjeciaGame/rawlingsHeartOfTheHideWhite5.jpg"
+                                
+                }]
+                        },{"nameJSON":"rawlingProPreffered",
+                            "modelJSON":"Pro-Preffered",
+                            "producerJSON":"Rawlings",
+                            "priceJSON": "114.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaGame/rawlingsProPreffered1.jpg",
+                                "url2":"zdjeciaGame/rawlingsProPreffered2.jpg",
+                                "url3":"zdjeciaGame/rawlingsProPreffered3.jfif",
+                                "url4":"zdjeciaGame/rawlingsProPreffered4.jpg",
+                                "url5":"zdjeciaGame/rawlingsProPreffered5.jpg"
+                                    
+                }]
+                        },{ "nameJSON":"catchersMitt",
+                            "modelJSON":"Pro-RCM",
+                            "producerJSON":"Rawlings",
+                            "priceJSON": "159.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaGame/rawlingsProRCM1.jpg",
+                                "url2":"zdjeciaGame/rawlingsProRCM2.jpg",
+                                "url3":"zdjeciaGame/rawlingsProRCM3.jfif",
+                                "url4":"zdjeciaGame/rawlingsProRCM4.jpg",
+                                "url5":"zdjeciaGame/rawlingsProRCM5.jpg"
+                }]
+                        },{ "nameJSON":"strikingBat",
+                            "modelJSON":"SB-33\"",
+                            "producerJSON":"Striking",
+                            "priceJSON": "189.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaGame/strikinkkingBat1.jpg",
+                                "url2":"zdjeciaGame/strikinkkingBat2.jpg",
+                                "url3":"zdjeciaGame/strikinkkingBat3.jfif",
+                                "url4":"zdjeciaGame/strikinkkingBat4.jpg",
+                                "url5":"zdjeciaGame/strikinkkingBat5.jpg"
+
+                }]
+                        },{"nameJSON": "infieldWilson",
+                            "modelJSON":"A2000",
+                            "producerJSON":"Wilson",
+                            "priceJSON": "89.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaGame/wilsonaA2000-125Outfield1.jpg",
+                                "url2":"zdjeciaGame/wilsonaA2000-125Outfield1.jpg",
+                                "url3":"zdjeciaGame/wilsonaA2000-125Outfield1.jfif",
+                                "url4":"zdjeciaGame/wilsonaA2000-125Outfield1.jpg",
+                                "url5":"zdjeciaGame/wilsonaA2000-125Outfield1.jpg"
+                    
+                    
+                }]
+                        },
+    {"nameJSON": "Baseball Ball",
+    "modelJSON":"A1030",
+    "producerJSON":"Wilson",
+    "priceJSON": "3.95",
+    "pictureJSON":[{
+        "url1":"zdjeciaTopItems/wilson1.jpg",
+        "url2":"zdjeciaTopItems/wilson2.jpg",
+        "url3":"zdjeciaTopItems/wilson3.jpg",
+        "url4":"zdjeciaTopItems/wilson4.jpg",
+        "url5":"zdjeciaTopItems/wilson5.jpg"
+
+
+    }]
+    },{"nameJSON":" Baseball Bat",
+        "modelJSON":"Grizly Bad News",
+        "producerJSON":"Louiseville",
+        "priceJSON": "119.95",
+        "pictureJSON":[{
+            "url1":"zdjeciaTopItems/grizly1.jpg",
+            "url2":"zdjeciaTopItems/grizly2.jpg",
+            "url3":"zdjeciaTopItems/grizly3.jfif",
+            "url4":"zdjeciaTopItems/grizly4.jpg",
+            "url5":"zdjeciaTopItems/grizly5.jpg"
+
+
+            }]
+        },{"nameJSON":"Baseball hat",
+            "modelJSON":"NY Snapback",
+            "producerJSON":"NY Yankees",
+            "priceJSON": "29.75",
+            "pictureJSON":[{
+                "url1":"zdjeciaTopItems/czapka1.jpg",
+                "url2":"zdjeciaTopItems/czapka2.jfif",
+                "url3":"zdjeciaTopItems/czapka3.jfif",
+                "url4":"zdjeciaTopItems/czapka4.jfif",
+                "url5":"zdjeciaTopItems/czapka5.jpg"
+
+
+                }]
+            },{"nameJSON":"Catcher's mitt",
+                "modelJSON":"Grizly Bad News",
+                "producerJSON":"YSS",
+                "priceJSON": "119.95",
+                "pictureJSON":[{
+                    "url1":"zdjeciaTopItems/mitt1.jpg",
+                    "url2":"zdjeciaTopItems/mitt2.jpg",
+                    "url3":"zdjeciaTopItems/mitt3.jpg",
+                    "url4":"zdjeciaTopItems/mitt4.jfif",
+                    "url5":"zdjeciaTopItems/mitt5.jfif"
+    
+    
+                    }]
+                },{"nameJSON": "bruceBoltBAttingGlove",
+                    "modelJSON":"Light Skin",
+                    "producerJSON":"Bruce Bolt",
+                    "priceJSON": "19.95",
+                    "pictureJSON":[{
+                        "url1":"zdjeciaTrening/bruceBoltBattingGlove1.jpg",
+                        "url2":"zdjeciaTrening/bruceBoltBattingGlove2.jpg",
+                        "url3":"zdjeciaTrening/bruceBoltBattingGlove3.jpg",
+                        "url4":"zdjeciaTrening/bruceBoltBattingGlove4.jpg",
+                        "url5":"zdjeciaTrening/bruceBoltBattingGlove5.jpg"
+
+                    }]
+                },
+                    {"nameJSON":"eastonBattingHelmet",
+                    "modelJSON":"GZ-150",
+                    "producerJSON":"Easton",
+                    "priceJSON": "45.95",
+                    "pictureJSON":[{
+                        "url1":"zdjeciaTrening/eastonBattingHelmetBlue1.jpg",
+                        "url2":"zdjeciaTrening/eastonBattingHelmetBlue2.jpg",
+                        "url3":"zdjeciaTrening/eastonBattingHelmetBlue3.jpg",
+                        "url4":"zdjeciaTrening/eastonBattingHelmetBlue4.jpg",
+                        "url5":"zdjeciaTrening/eastonBattingHelmetBlue5.jpg"
+                    
+                }]
+                    },{"nameJSON":"eastonCatchersGear",                                            
+                        "modelJSON":"Gametime ",
+                        "producerJSON":"Easton",
+                        "priceJSON": "135.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTrening/eastonCatchersEquipmentBlue1.jpg",
+                            "url2":"zdjeciaTrening/eastonCatchersEquipmentBlue2.jpg",
+                            "url3":"zdjeciaTrening/eastonCatchersEquipmentBlue3.jpg",
+                            "url4":"zdjeciaTrening/eastonCatchersEquipmentBlue4.jpg",
+                            "url5":"zdjeciaTrening/eastonCatchersEquipmentBlue5.jpg"       
+                            
+                }]
+                    },{"nameJSON":"Catcher's protector",
+                    "modelJSON":"Rockfight",
+                    "producerJSON":"Troy Lee Designs",
+                    "priceJSON": "93.95",
+                    "pictureJSON":[{
+                        "url1":"zdjeciaTopItems/protector1.jpg",
+                        "url2":"zdjeciaTopItems/protector2.jpg",
+                        "url3":"zdjeciaTopItems/protector3.jpg",
+                        "url4":"zdjeciaTopItems/protector4.jpg",
+                        "url5":"zdjeciaTopItems/protector5.jpg"
+        
+        
+                        }]
+                    },{ "nameJSON":"Batter's gloves",
+                        "modelJSON":"Huarache Edge",
+                        "producerJSON":"Nike",
+                        "priceJSON": "25.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTopItems/rekawiczki1.jpg",
+                            "url2":"zdjeciaTopItems/rekawiczki2.jpg",
+                            "url3":"zdjeciaTopItems/rekawiczki3.jpg",
+                            "url4":"zdjeciaTopItems/rekawiczki4.jpg",
+                            "url5":"zdjeciaTopItems/rekawiczki5.jpg"
+                        }]
+            
+                        },{ "nameJSON":"1B Mitt",
+                            "modelJSON":"CloseOut",
+                            "producerJSON":"Rawlings",
+                            "priceJSON": "159.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaTopItems/1B1.jpg",
+                                "url2":"zdjeciaTopItems/1B2.jpg",
+                                "url3":"zdjeciaTopItems/1B3.jpg",
+                                "url4":"zdjeciaTopItems/1B4.jpg",
+                                "url5":"zdjeciaTopItems/1B5.jpg"
+                
+                
+                                }]
+                            },{"nameJSON":"battersProtector",
+                                "modelJSON":"FM-50",
+                                "producerJSON":"Homerun",
+                                "priceJSON": "74.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaTrening/homerunCathersFaceMask1.jpg",
+                                    "url2":"zdjeciaTrening/homerunCathersFaceMask2.jpg",
+                                    "url3":"zdjeciaTrening/homerunCathersFaceMask3.jpg",
+                                    "url4":"zdjeciaTrening/homerunCathersFaceMask4.jpg",
+                                    "url5":"zdjeciaTrening/homerunCathersFaceMask5.jpg"
+                    
+                                
+                        }]
+                                
+                        },{"nameJSON":"catchersChest",
+                            "modelJSON":"Pro Chest",
+                            "producerJSON":"Mizuno",
+                            "priceJSON": "115.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaTrening/mizunoChestProtector1.jpg",
+                                "url2":"zdjeciaTrening/mizunoChestProtector2.jpg",
+                                "url3":"zdjeciaTrening/mizunoChestProtector3.jpg",
+                                "url4":"zdjeciaTrening/mizunoChestProtector4.jpg",
+                                "url5":"zdjeciaTrening/mizunoChestProtector5.jpg" 
+                                
+                }]
+                    },{"nameJSON":"oldHickoryWodenBat",
+                        "modelJSON":"J143M",
+                        "producerJSON":"Old Hickory",
+                        "priceJSON": "95.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTrening/oldHickoryWodenBat.jpg",
+                            "url2":"zdjeciaTrening/oldHickoryWodenBat2.jpg",
+                            "url3":"zdjeciaTrening/oldHickoryWodenBat3.jpg",
+                            "url4":"zdjeciaTrening/oldHickoryWodenBat4.jpg",
+                            "url5":"zdjeciaTrening/oldHickoryWodenBat5.jpg" 
+                                    
+                }]
+                    },{ "nameJSON":"rawlingsHeartofTheHideWhite",
+                        "modelJSON":"Heart of the Hide",
+                        "producerJSON":"Rawlings",
+                        "priceJSON": "80.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTrening/rawlingsHeartOfTheHide1.jpg",
+                            "url2":"zdjeciaTrening/rawlingsHeartOfTheHide2.jpg",
+                            "url3":"zdjeciaTrening/rawlingsHeartOfTheHide3.jpg",
+                            "url4":"zdjeciaTrening/rawlingsHeartOfTheHide4.jpg",
+                            "url5":"zdjeciaTrening/rawlingsHeartOfTheHide5.jpg" 
+                }]
+                    },{ "nameJSON":"rawlingWodenBar",
+                        "modelJSON":"Machado",
+                        "producerJSON":"Rawlings",
+                        "priceJSON": "119.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTrening/rawlingWodenBat1.jpg",
+                            "url2":"zdjeciaTrening/rawlingWodenBat2.jpg",
+                            "url3":"zdjeciaTrening/rawlingWodenBat3.jpg",
+                            "url4":"zdjeciaTrening/rawlingWodenBat4.jpg",
+                            "url5":"zdjeciaTrening/rawlingWodenBat5.jpg" 
+                                            
+                }]
+                        },{"nameJSON":"underArmourGeniuePro",
+                            "modelJSON":"Geniue Pro",
+                            "producerJSON":"Under Armour",
+                            "priceJSON": "94.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaTrening/underarmourGeniuePro1.jpg",
+                                "url2":"zdjeciaTrening/underarmourGeniuePro2.jpg",
+                                "url3":"zdjeciaTrening/underarmourGeniuePro3.jpg",
+                                "url4":"zdjeciaTrening/underarmourGeniuePro4.jpg",
+                                "url5":"zdjeciaTrening/underarmourGeniuePro5.jpg" 
+                }]
+                        },{"nameJSON": "victusBat",
+                        "modelJSON":"V-Slugger",
+                        "producerJSON":"Victus",
+                        "priceJSON": "94.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTrening/victusBat1.jpg",
+                            "url2":"zdjeciaTrening/victusBat2.jpg",
+                            "url3":"zdjeciaTrening/victusBat3.jpg",
+                            "url4":"zdjeciaTrening/victusBat4.jpg",
+                            "url5":"zdjeciaTrening/victusBat5.jpg"        
+                }]
+                        },{"nameJSON":"infieldWilson",
+                        "modelJSON":"I-A2000",
+                        "producerJSON":"Wilson",
+                        "priceJSON": "88.95",
+                        "pictureJSON":[{
+                            "url1":"zdjeciaTrening/WilsonA20001.jpg",
+                            "url2":"zdjeciaTrening/WilsonA20002.jpg",
+                            "url3":"zdjeciaTrening/WilsonA20003.jpg",
+                            "url4":"zdjeciaTrening/WilsonA20004.jpg",
+                            "url5":"zdjeciaTrening/WilsonA20005.jpg" 
+
+                }]
+                        },{"nameJSON":"outfieldWilson",
+                            "modelJSON":"O-A2000",
+                            "producerJSON":"Wilson",
+                            "priceJSON": "98.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaTrening/wilsonaA2000Outfield1.jpg",
+                                "url2":"zdjeciaTrening/wilsonaA2000Outfield2.jpg",
+                                "url3":"zdjeciaTrening/wilsonaA2000Outfield3.jpg",
+                                "url4":"zdjeciaTrening/wilsonaA2000Outfield4.jpg",
+                                "url5":"zdjeciaTrening/wilsonaA2000Outfield5.jpg"
+                            
+                }]
+                        },{"nameJSON":"wilsonSuperSkin",
+                                "modelJSON":"SuperSkin",
+                                "producerJSON":"Wilson",
+                                "priceJSON": "99.95",
+                                "pictureJSON":[{
+                                    "url1":"zdjeciaTrening/wilsonaSuperSkinOutfield1.jpg",
+                                    "url2":"zdjeciaTrening/wilsonaSuperSkinOutfield2.jpg",
+                                    "url3":"zdjeciaTrening/wilsonaSuperSkinOutfield3.jpg",
+                                    "url4":"zdjeciaTrening/wilsonaSuperSkinOutfield4.jpg",
+                                    "url5":"zdjeciaTrening/wilsonaSuperSkinOutfield5.jpg"
+                                
+                }]
+                        },{"nameJSON":"wilsonSuperSkin1B",
+                            "modelJSON":"1B - SuperSkin",
+                            "producerJSON":"Wilson",
+                            "priceJSON": "109.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaTrening/wilsonSuperSkin1.jpg",
+                                "url2":"zdjeciaTrening/wilsonSuperSkin2.jpg",
+                                "url3":"zdjeciaTrening/wilsonSuperSkin3.jpg",
+                                "url4":"zdjeciaTrening/wilsonSuperSkin4.jpg",
+                                "url5":"zdjeciaTrening/wilsonSuperSkin5.jpg"
+                                    
+                }]
+                        },{"nameJSON":"wilsonSuperSkin1BBlack",
+                            "modelJSON":"1BB - SuperSkin",
+                            "producerJSON":"Wilson",
+                            "priceJSON": "104.95",
+                            "pictureJSON":[{
+                                "url1":"zdjeciaTrening/wilsonSuperSkinBlack1.jpg",
+                                "url2":"zdjeciaTrening/wilsonSuperSkinBlack2.jpg",
+                                "url3":"zdjeciaTrening/wilsonSuperSkinBlack3.jpg",
+                                "url4":"zdjeciaTrening/wilsonSuperSkinBlack4.jpg",
+                                "url5":"zdjeciaTrening/wilsonSuperSkinBlack5.jpg"
+                }]
+
+            },{"nameJSON": "evoshieldWristGuard",
+                "modelJSON":"WG-125",
+                "producerJSON":"Evoshield",
+                "priceJSON": "39.95",
+                "pictureJSON":[{
+                    "url1":"zdjeciaOther/evoshieldWristGuard1.jpg",
+                    "url2":"zdjeciaOther/evoshieldWristGuard2.jpg",
+                    "url3":"zdjeciaOther/evoshieldWristGuard3.jpg",
+                    "url4":"zdjeciaOther/evoshieldWristGuard4.jpg",
+                    "url5":"zdjeciaOther/evoshieldWristGuard5.jpg"
+
+                }]
+            },
+                {"nameJSON":"gloveLace",
+                "modelJSON":"Long Lace",
+                "producerJSON":"Rawlings",
+                "priceJSON": "5.95",
+                "pictureJSON":[{
+                    "url1":"zdjeciaOther/gloveLace1.jpg",
+                    "url2":"zdjeciaOther/gloveLace2.jpg",
+                    "url3":"zdjeciaOther/gloveLace3.jpg",
+                    "url4":"zdjeciaOther/gloveLace4.jpg",
+                    "url5":"zdjeciaOther/gloveLace5.jpg"
+                
+            }]
+                },{"nameJSON":"equipmentBag",
+                    "modelJSON":"BatBag",
+                    "producerJSON":"Louiseville",
+                    "priceJSON": "43.95",
+                    "pictureJSON":[{
+                        "url1":"zdjeciaOther/louisvilleEquipmentBag1.jpg",
+                        "url2":"zdjeciaOther/louisvilleEquipmentBag2.jpg",
+                        "url3":"zdjeciaOther/louisvilleEquipmentBag3.jpg",
+                        "url4":"zdjeciaOther/louisvilleEquipmentBag4.jpg",
+                        "url5":"zdjeciaOther/louisvilleEquipmentBag5.jpg"       
+                        
+            }]
+                },{"nameJSON":"equipmentBag",
+                "modelJSON":"G205",
+                "producerJSON":"Marucci",
+                "priceJSON": "53.95",
+                "pictureJSON":[{
+                    "url1":"zdjeciaOther/marucciEquipmentBag1.jpg",
+                    "url2":"zdjeciaOther/marucciEquipmentBag2.jpg",
+                    "url3":"zdjeciaOther/marucciEquipmentBag3.jpg",
+                    "url4":"zdjeciaOther/marucciEquipmentBag4.jpg",
+                    "url5":"zdjeciaOther/marucciEquipmentBag5.jpg"
+    
+    
+                    }]
+                }
+
+            ]
+
+
+}
